@@ -1,4 +1,4 @@
-decal = "rbxassetid://"
+decal = "10794318086://"
 
 SkyBox = Instarnce.new("Sky")
 SkyBox.Name = "Plus"
