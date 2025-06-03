@@ -17,10 +17,7 @@ To purchase, join our [Discord](#) or message **@unanchored_99**.
 
 - 🧠 Game-aware script loader (auto-detects supported games)
 - 🪟 Sleek GUI with draggable, minimizable titlebar
-- 🔒 Key access for free users, bypass for premium
 - 🔗 Remote whitelist + script loading via GitHub
-- 🧩 Tabs like Universal / Game Scripts / Hubs
-- ⚙️ Future modules: settings menu, executor integration, theming
 
 ---
 
